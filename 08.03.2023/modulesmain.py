@@ -1,5 +1,6 @@
 import module as m
-
+# import module
+# from module import fun
 m.transport=m.vehicle()
 m.transport.bike(2,"air")
 m.transport.car(4,"oil")
